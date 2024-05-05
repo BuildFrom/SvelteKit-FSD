@@ -1,5 +1,5 @@
 <script>
-  import { AboutPage } from '@/pages/about';
+  import { AboutPage } from '@/pages';
 </script>
 
 <svelte:head>
